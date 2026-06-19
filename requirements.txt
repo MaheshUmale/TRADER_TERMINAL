@@ -4,4 +4,10 @@ python-dotenv
 upstox-python-sdk
 websocket-client
 duckdb
-redis[hiredis]
+redis[hiredis]>=5.0.0
+httpx
+anyio
+pytest
+pytest-asyncio
+pandas
+requests
