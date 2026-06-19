@@ -1,0 +1,6 @@
+upstox-python-sdk
+plotext
+streamlit
+plotly
+pandas
+numpy

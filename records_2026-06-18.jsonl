@@ -1,0 +1,1011 @@
+{
+    "NIFTY": {
+        "future": "NSE_FO|62329",
+        "expiry": "2026-06-23",
+        "options": [
+            {
+                "strike": 23450.0,
+                "ce": "NSE_FO|56318",
+                "ce_trading_symbol": "NIFTY 23450 CE 23 JUN 26",
+                "pe": "NSE_FO|56319",
+                "pe_trading_symbol": "NIFTY 23450 PE 23 JUN 26"
+            },
+            {
+                "strike": 23500.0,
+                "ce": "NSE_FO|56320",
+                "ce_trading_symbol": "NIFTY 23500 CE 23 JUN 26",
+                "pe": "NSE_FO|56321",
+                "pe_trading_symbol": "NIFTY 23500 PE 23 JUN 26"
+            },
+            {
+                "strike": 23550.0,
+                "ce": "NSE_FO|56326",
+                "ce_trading_symbol": "NIFTY 23550 CE 23 JUN 26",
+                "pe": "NSE_FO|56327",
+                "pe_trading_symbol": "NIFTY 23550 PE 23 JUN 26"
+            },
+            {
+                "strike": 23600.0,
+                "ce": "NSE_FO|56332",
+                "ce_trading_symbol": "NIFTY 23600 CE 23 JUN 26",
+                "pe": "NSE_FO|56333",
+                "pe_trading_symbol": "NIFTY 23600 PE 23 JUN 26"
+            },
+            {
+                "strike": 23650.0,
+                "ce": "NSE_FO|56334",
+                "ce_trading_symbol": "NIFTY 23650 CE 23 JUN 26",
+                "pe": "NSE_FO|56335",
+                "pe_trading_symbol": "NIFTY 23650 PE 23 JUN 26"
+            },
+            {
+                "strike": 23700.0,
+                "ce": "NSE_FO|56336",
+                "ce_trading_symbol": "NIFTY 23700 CE 23 JUN 26",
+                "pe": "NSE_FO|56337",
+                "pe_trading_symbol": "NIFTY 23700 PE 23 JUN 26"
+            },
+            {
+                "strike": 23750.0,
+                "ce": "NSE_FO|56348",
+                "ce_trading_symbol": "NIFTY 23750 CE 23 JUN 26",
+                "pe": "NSE_FO|56349",
+                "pe_trading_symbol": "NIFTY 23750 PE 23 JUN 26"
+            },
+            {
+                "strike": 23800.0,
+                "ce": "NSE_FO|56354",
+                "ce_trading_symbol": "NIFTY 23800 CE 23 JUN 26",
+                "pe": "NSE_FO|56355",
+                "pe_trading_symbol": "NIFTY 23800 PE 23 JUN 26"
+            },
+            {
+                "strike": 23850.0,
+                "ce": "NSE_FO|56356",
+                "ce_trading_symbol": "NIFTY 23850 CE 23 JUN 26",
+                "pe": "NSE_FO|56357",
+                "pe_trading_symbol": "NIFTY 23850 PE 23 JUN 26"
+            },
+            {
+                "strike": 23900.0,
+                "ce": "NSE_FO|56358",
+                "ce_trading_symbol": "NIFTY 23900 CE 23 JUN 26",
+                "pe": "NSE_FO|56359",
+                "pe_trading_symbol": "NIFTY 23900 PE 23 JUN 26"
+            },
+            {
+                "strike": 23950.0,
+                "ce": "NSE_FO|56370",
+                "ce_trading_symbol": "NIFTY 23950 CE 23 JUN 26",
+                "pe": "NSE_FO|56371",
+                "pe_trading_symbol": "NIFTY 23950 PE 23 JUN 26"
+            },
+            {
+                "strike": 24000.0,
+                "ce": "NSE_FO|56372",
+                "ce_trading_symbol": "NIFTY 24000 CE 23 JUN 26",
+                "pe": "NSE_FO|56373",
+                "pe_trading_symbol": "NIFTY 24000 PE 23 JUN 26"
+            },
+            {
+                "strike": 24050.0,
+                "ce": "NSE_FO|56374",
+                "ce_trading_symbol": "NIFTY 24050 CE 23 JUN 26",
+                "pe": "NSE_FO|56375",
+                "pe_trading_symbol": "NIFTY 24050 PE 23 JUN 26"
+            },
+            {
+                "strike": 24100.0,
+                "ce": "NSE_FO|56376",
+                "ce_trading_symbol": "NIFTY 24100 CE 23 JUN 26",
+                "pe": "NSE_FO|56377",
+                "pe_trading_symbol": "NIFTY 24100 PE 23 JUN 26"
+            },
+            {
+                "strike": 24150.0,
+                "ce": "NSE_FO|56380",
+                "ce_trading_symbol": "NIFTY 24150 CE 23 JUN 26",
+                "pe": "NSE_FO|56381",
+                "pe_trading_symbol": "NIFTY 24150 PE 23 JUN 26"
+            },
+            {
+                "strike": 24200.0,
+                "ce": "NSE_FO|56382",
+                "ce_trading_symbol": "NIFTY 24200 CE 23 JUN 26",
+                "pe": "NSE_FO|56383",
+                "pe_trading_symbol": "NIFTY 24200 PE 23 JUN 26"
+            },
+            {
+                "strike": 24250.0,
+                "ce": "NSE_FO|56384",
+                "ce_trading_symbol": "NIFTY 24250 CE 23 JUN 26",
+                "pe": "NSE_FO|56385",
+                "pe_trading_symbol": "NIFTY 24250 PE 23 JUN 26"
+            },
+            {
+                "strike": 24300.0,
+                "ce": "NSE_FO|56386",
+                "ce_trading_symbol": "NIFTY 24300 CE 23 JUN 26",
+                "pe": "NSE_FO|56387",
+                "pe_trading_symbol": "NIFTY 24300 PE 23 JUN 26"
+            },
+            {
+                "strike": 24350.0,
+                "ce": "NSE_FO|56388",
+                "ce_trading_symbol": "NIFTY 24350 CE 23 JUN 26",
+                "pe": "NSE_FO|56389",
+                "pe_trading_symbol": "NIFTY 24350 PE 23 JUN 26"
+            },
+            {
+                "strike": 24400.0,
+                "ce": "NSE_FO|56390",
+                "ce_trading_symbol": "NIFTY 24400 CE 23 JUN 26",
+                "pe": "NSE_FO|56391",
+                "pe_trading_symbol": "NIFTY 24400 PE 23 JUN 26"
+            },
+            {
+                "strike": 24450.0,
+                "ce": "NSE_FO|56392",
+                "ce_trading_symbol": "NIFTY 24450 CE 23 JUN 26",
+                "pe": "NSE_FO|56393",
+                "pe_trading_symbol": "NIFTY 24450 PE 23 JUN 26"
+            },
+            {
+                "strike": 24500.0,
+                "ce": "NSE_FO|56396",
+                "ce_trading_symbol": "NIFTY 24500 CE 23 JUN 26",
+                "pe": "NSE_FO|56397",
+                "pe_trading_symbol": "NIFTY 24500 PE 23 JUN 26"
+            },
+            {
+                "strike": 24550.0,
+                "ce": "NSE_FO|56402",
+                "ce_trading_symbol": "NIFTY 24550 CE 23 JUN 26",
+                "pe": "NSE_FO|56403",
+                "pe_trading_symbol": "NIFTY 24550 PE 23 JUN 26"
+            },
+            {
+                "strike": 24600.0,
+                "ce": "NSE_FO|56404",
+                "ce_trading_symbol": "NIFTY 24600 CE 23 JUN 26",
+                "pe": "NSE_FO|56405",
+                "pe_trading_symbol": "NIFTY 24600 PE 23 JUN 26"
+            },
+            {
+                "strike": 24650.0,
+                "ce": "NSE_FO|56406",
+                "ce_trading_symbol": "NIFTY 24650 CE 23 JUN 26",
+                "pe": "NSE_FO|56407",
+                "pe_trading_symbol": "NIFTY 24650 PE 23 JUN 26"
+            },
+            {
+                "strike": 24700.0,
+                "ce": "NSE_FO|56418",
+                "ce_trading_symbol": "NIFTY 24700 CE 23 JUN 26",
+                "pe": "NSE_FO|56419",
+                "pe_trading_symbol": "NIFTY 24700 PE 23 JUN 26"
+            },
+            {
+                "strike": 24750.0,
+                "ce": "NSE_FO|56420",
+                "ce_trading_symbol": "NIFTY 24750 CE 23 JUN 26",
+                "pe": "NSE_FO|56421",
+                "pe_trading_symbol": "NIFTY 24750 PE 23 JUN 26"
+            }
+        ],
+        "all_keys": [
+            "NSE_FO|62329",
+            "NSE_FO|56318",
+            "NSE_FO|56320",
+            "NSE_FO|56326",
+            "NSE_FO|56332",
+            "NSE_FO|56334",
+            "NSE_FO|56336",
+            "NSE_FO|56348",
+            "NSE_FO|56354",
+            "NSE_FO|56356",
+            "NSE_FO|56358",
+            "NSE_FO|56370",
+            "NSE_FO|56372",
+            "NSE_FO|56374",
+            "NSE_FO|56376",
+            "NSE_FO|56380",
+            "NSE_FO|56382",
+            "NSE_FO|56384",
+            "NSE_FO|56386",
+            "NSE_FO|56388",
+            "NSE_FO|56390",
+            "NSE_FO|56392",
+            "NSE_FO|56396",
+            "NSE_FO|56402",
+            "NSE_FO|56404",
+            "NSE_FO|56406",
+            "NSE_FO|56418",
+            "NSE_FO|56420",
+            "NSE_FO|56319",
+            "NSE_FO|56321",
+            "NSE_FO|56327",
+            "NSE_FO|56333",
+            "NSE_FO|56335",
+            "NSE_FO|56337",
+            "NSE_FO|56349",
+            "NSE_FO|56355",
+            "NSE_FO|56357",
+            "NSE_FO|56359",
+            "NSE_FO|56371",
+            "NSE_FO|56373",
+            "NSE_FO|56375",
+            "NSE_FO|56377",
+            "NSE_FO|56381",
+            "NSE_FO|56383",
+            "NSE_FO|56385",
+            "NSE_FO|56387",
+            "NSE_FO|56389",
+            "NSE_FO|56391",
+            "NSE_FO|56393",
+            "NSE_FO|56397",
+            "NSE_FO|56403",
+            "NSE_FO|56405",
+            "NSE_FO|56407",
+            "NSE_FO|56419",
+            "NSE_FO|56421"
+        ]
+    },
+    "BANKNIFTY": {
+        "future": "NSE_FO|62326",
+        "expiry": "2026-06-30",
+        "options": [
+            {
+                "strike": 56500.0,
+                "ce": "NSE_FO|75628",
+                "ce_trading_symbol": "BANKNIFTY 56500 CE 30 JUN 26",
+                "pe": "NSE_FO|75629",
+                "pe_trading_symbol": "BANKNIFTY 56500 PE 30 JUN 26"
+            },
+            {
+                "strike": 56600.0,
+                "ce": "NSE_FO|75630",
+                "ce_trading_symbol": "BANKNIFTY 56600 CE 30 JUN 26",
+                "pe": "NSE_FO|75631",
+                "pe_trading_symbol": "BANKNIFTY 56600 PE 30 JUN 26"
+            },
+            {
+                "strike": 56700.0,
+                "ce": "NSE_FO|75632",
+                "ce_trading_symbol": "BANKNIFTY 56700 CE 30 JUN 26",
+                "pe": "NSE_FO|75633",
+                "pe_trading_symbol": "BANKNIFTY 56700 PE 30 JUN 26"
+            },
+            {
+                "strike": 56800.0,
+                "ce": "NSE_FO|75634",
+                "ce_trading_symbol": "BANKNIFTY 56800 CE 30 JUN 26",
+                "pe": "NSE_FO|75635",
+                "pe_trading_symbol": "BANKNIFTY 56800 PE 30 JUN 26"
+            },
+            {
+                "strike": 56900.0,
+                "ce": "NSE_FO|75636",
+                "ce_trading_symbol": "BANKNIFTY 56900 CE 30 JUN 26",
+                "pe": "NSE_FO|75637",
+                "pe_trading_symbol": "BANKNIFTY 56900 PE 30 JUN 26"
+            },
+            {
+                "strike": 57000.0,
+                "ce": "NSE_FO|57746",
+                "ce_trading_symbol": "BANKNIFTY 57000 CE 30 JUN 26",
+                "pe": "NSE_FO|57747",
+                "pe_trading_symbol": "BANKNIFTY 57000 PE 30 JUN 26"
+            },
+            {
+                "strike": 57100.0,
+                "ce": "NSE_FO|75638",
+                "ce_trading_symbol": "BANKNIFTY 57100 CE 30 JUN 26",
+                "pe": "NSE_FO|75649",
+                "pe_trading_symbol": "BANKNIFTY 57100 PE 30 JUN 26"
+            },
+            {
+                "strike": 57200.0,
+                "ce": "NSE_FO|75650",
+                "ce_trading_symbol": "BANKNIFTY 57200 CE 30 JUN 26",
+                "pe": "NSE_FO|75651",
+                "pe_trading_symbol": "BANKNIFTY 57200 PE 30 JUN 26"
+            },
+            {
+                "strike": 57300.0,
+                "ce": "NSE_FO|75652",
+                "ce_trading_symbol": "BANKNIFTY 57300 CE 30 JUN 26",
+                "pe": "NSE_FO|75656",
+                "pe_trading_symbol": "BANKNIFTY 57300 PE 30 JUN 26"
+            },
+            {
+                "strike": 57400.0,
+                "ce": "NSE_FO|75657",
+                "ce_trading_symbol": "BANKNIFTY 57400 CE 30 JUN 26",
+                "pe": "NSE_FO|75658",
+                "pe_trading_symbol": "BANKNIFTY 57400 PE 30 JUN 26"
+            },
+            {
+                "strike": 57500.0,
+                "ce": "NSE_FO|75661",
+                "ce_trading_symbol": "BANKNIFTY 57500 CE 30 JUN 26",
+                "pe": "NSE_FO|75662",
+                "pe_trading_symbol": "BANKNIFTY 57500 PE 30 JUN 26"
+            },
+            {
+                "strike": 57600.0,
+                "ce": "NSE_FO|75663",
+                "ce_trading_symbol": "BANKNIFTY 57600 CE 30 JUN 26",
+                "pe": "NSE_FO|75664",
+                "pe_trading_symbol": "BANKNIFTY 57600 PE 30 JUN 26"
+            },
+            {
+                "strike": 57700.0,
+                "ce": "NSE_FO|75665",
+                "ce_trading_symbol": "BANKNIFTY 57700 CE 30 JUN 26",
+                "pe": "NSE_FO|75732",
+                "pe_trading_symbol": "BANKNIFTY 57700 PE 30 JUN 26"
+            },
+            {
+                "strike": 57800.0,
+                "ce": "NSE_FO|75733",
+                "ce_trading_symbol": "BANKNIFTY 57800 CE 30 JUN 26",
+                "pe": "NSE_FO|75748",
+                "pe_trading_symbol": "BANKNIFTY 57800 PE 30 JUN 26"
+            },
+            {
+                "strike": 57900.0,
+                "ce": "NSE_FO|75749",
+                "ce_trading_symbol": "BANKNIFTY 57900 CE 30 JUN 26",
+                "pe": "NSE_FO|75750",
+                "pe_trading_symbol": "BANKNIFTY 57900 PE 30 JUN 26"
+            },
+            {
+                "strike": 58000.0,
+                "ce": "NSE_FO|75751",
+                "ce_trading_symbol": "BANKNIFTY 58000 CE 30 JUN 26",
+                "pe": "NSE_FO|75752",
+                "pe_trading_symbol": "BANKNIFTY 58000 PE 30 JUN 26"
+            },
+            {
+                "strike": 58100.0,
+                "ce": "NSE_FO|75753",
+                "ce_trading_symbol": "BANKNIFTY 58100 CE 30 JUN 26",
+                "pe": "NSE_FO|75754",
+                "pe_trading_symbol": "BANKNIFTY 58100 PE 30 JUN 26"
+            },
+            {
+                "strike": 58200.0,
+                "ce": "NSE_FO|75755",
+                "ce_trading_symbol": "BANKNIFTY 58200 CE 30 JUN 26",
+                "pe": "NSE_FO|75756",
+                "pe_trading_symbol": "BANKNIFTY 58200 PE 30 JUN 26"
+            },
+            {
+                "strike": 58300.0,
+                "ce": "NSE_FO|75757",
+                "ce_trading_symbol": "BANKNIFTY 58300 CE 30 JUN 26",
+                "pe": "NSE_FO|75758",
+                "pe_trading_symbol": "BANKNIFTY 58300 PE 30 JUN 26"
+            },
+            {
+                "strike": 58400.0,
+                "ce": "NSE_FO|75759",
+                "ce_trading_symbol": "BANKNIFTY 58400 CE 30 JUN 26",
+                "pe": "NSE_FO|75760",
+                "pe_trading_symbol": "BANKNIFTY 58400 PE 30 JUN 26"
+            },
+            {
+                "strike": 58500.0,
+                "ce": "NSE_FO|57750",
+                "ce_trading_symbol": "BANKNIFTY 58500 CE 30 JUN 26",
+                "pe": "NSE_FO|57751",
+                "pe_trading_symbol": "BANKNIFTY 58500 PE 30 JUN 26"
+            },
+            {
+                "strike": 58600.0,
+                "ce": "NSE_FO|75786",
+                "ce_trading_symbol": "BANKNIFTY 58600 CE 30 JUN 26",
+                "pe": "NSE_FO|75793",
+                "pe_trading_symbol": "BANKNIFTY 58600 PE 30 JUN 26"
+            },
+            {
+                "strike": 58700.0,
+                "ce": "NSE_FO|75794",
+                "ce_trading_symbol": "BANKNIFTY 58700 CE 30 JUN 26",
+                "pe": "NSE_FO|75795",
+                "pe_trading_symbol": "BANKNIFTY 58700 PE 30 JUN 26"
+            },
+            {
+                "strike": 58800.0,
+                "ce": "NSE_FO|75796",
+                "ce_trading_symbol": "BANKNIFTY 58800 CE 30 JUN 26",
+                "pe": "NSE_FO|75797",
+                "pe_trading_symbol": "BANKNIFTY 58800 PE 30 JUN 26"
+            },
+            {
+                "strike": 58900.0,
+                "ce": "NSE_FO|75798",
+                "ce_trading_symbol": "BANKNIFTY 58900 CE 30 JUN 26",
+                "pe": "NSE_FO|75799",
+                "pe_trading_symbol": "BANKNIFTY 58900 PE 30 JUN 26"
+            },
+            {
+                "strike": 59000.0,
+                "ce": "NSE_FO|75800",
+                "ce_trading_symbol": "BANKNIFTY 59000 CE 30 JUN 26",
+                "pe": "NSE_FO|75801",
+                "pe_trading_symbol": "BANKNIFTY 59000 PE 30 JUN 26"
+            },
+            {
+                "strike": 59100.0,
+                "ce": "NSE_FO|75802",
+                "ce_trading_symbol": "BANKNIFTY 59100 CE 30 JUN 26",
+                "pe": "NSE_FO|75803",
+                "pe_trading_symbol": "BANKNIFTY 59100 PE 30 JUN 26"
+            }
+        ],
+        "all_keys": [
+            "NSE_FO|62326",
+            "NSE_FO|75628",
+            "NSE_FO|75630",
+            "NSE_FO|75632",
+            "NSE_FO|75634",
+            "NSE_FO|75636",
+            "NSE_FO|57746",
+            "NSE_FO|75638",
+            "NSE_FO|75650",
+            "NSE_FO|75652",
+            "NSE_FO|75657",
+            "NSE_FO|75661",
+            "NSE_FO|75663",
+            "NSE_FO|75665",
+            "NSE_FO|75733",
+            "NSE_FO|75749",
+            "NSE_FO|75751",
+            "NSE_FO|75753",
+            "NSE_FO|75755",
+            "NSE_FO|75757",
+            "NSE_FO|75759",
+            "NSE_FO|57750",
+            "NSE_FO|75786",
+            "NSE_FO|75794",
+            "NSE_FO|75796",
+            "NSE_FO|75798",
+            "NSE_FO|75800",
+            "NSE_FO|75802",
+            "NSE_FO|75629",
+            "NSE_FO|75631",
+            "NSE_FO|75633",
+            "NSE_FO|75635",
+            "NSE_FO|75637",
+            "NSE_FO|57747",
+            "NSE_FO|75649",
+            "NSE_FO|75651",
+            "NSE_FO|75656",
+            "NSE_FO|75658",
+            "NSE_FO|75662",
+            "NSE_FO|75664",
+            "NSE_FO|75732",
+            "NSE_FO|75748",
+            "NSE_FO|75750",
+            "NSE_FO|75752",
+            "NSE_FO|75754",
+            "NSE_FO|75756",
+            "NSE_FO|75758",
+            "NSE_FO|75760",
+            "NSE_FO|57751",
+            "NSE_FO|75793",
+            "NSE_FO|75795",
+            "NSE_FO|75797",
+            "NSE_FO|75799",
+            "NSE_FO|75801",
+            "NSE_FO|75803"
+        ]
+    }
+}{
+    "NIFTY": {
+        "future": "NSE_FO|62329",
+        "expiry": "2026-06-23",
+        "options": [
+            {
+                "strike": 23450.0,
+                "ce": "NSE_FO|56318",
+                "ce_trading_symbol": "NIFTY 23450 CE 23 JUN 26",
+                "pe": "NSE_FO|56319",
+                "pe_trading_symbol": "NIFTY 23450 PE 23 JUN 26"
+            },
+            {
+                "strike": 23500.0,
+                "ce": "NSE_FO|56320",
+                "ce_trading_symbol": "NIFTY 23500 CE 23 JUN 26",
+                "pe": "NSE_FO|56321",
+                "pe_trading_symbol": "NIFTY 23500 PE 23 JUN 26"
+            },
+            {
+                "strike": 23550.0,
+                "ce": "NSE_FO|56326",
+                "ce_trading_symbol": "NIFTY 23550 CE 23 JUN 26",
+                "pe": "NSE_FO|56327",
+                "pe_trading_symbol": "NIFTY 23550 PE 23 JUN 26"
+            },
+            {
+                "strike": 23600.0,
+                "ce": "NSE_FO|56332",
+                "ce_trading_symbol": "NIFTY 23600 CE 23 JUN 26",
+                "pe": "NSE_FO|56333",
+                "pe_trading_symbol": "NIFTY 23600 PE 23 JUN 26"
+            },
+            {
+                "strike": 23650.0,
+                "ce": "NSE_FO|56334",
+                "ce_trading_symbol": "NIFTY 23650 CE 23 JUN 26",
+                "pe": "NSE_FO|56335",
+                "pe_trading_symbol": "NIFTY 23650 PE 23 JUN 26"
+            },
+            {
+                "strike": 23700.0,
+                "ce": "NSE_FO|56336",
+                "ce_trading_symbol": "NIFTY 23700 CE 23 JUN 26",
+                "pe": "NSE_FO|56337",
+                "pe_trading_symbol": "NIFTY 23700 PE 23 JUN 26"
+            },
+            {
+                "strike": 23750.0,
+                "ce": "NSE_FO|56348",
+                "ce_trading_symbol": "NIFTY 23750 CE 23 JUN 26",
+                "pe": "NSE_FO|56349",
+                "pe_trading_symbol": "NIFTY 23750 PE 23 JUN 26"
+            },
+            {
+                "strike": 23800.0,
+                "ce": "NSE_FO|56354",
+                "ce_trading_symbol": "NIFTY 23800 CE 23 JUN 26",
+                "pe": "NSE_FO|56355",
+                "pe_trading_symbol": "NIFTY 23800 PE 23 JUN 26"
+            },
+            {
+                "strike": 23850.0,
+                "ce": "NSE_FO|56356",
+                "ce_trading_symbol": "NIFTY 23850 CE 23 JUN 26",
+                "pe": "NSE_FO|56357",
+                "pe_trading_symbol": "NIFTY 23850 PE 23 JUN 26"
+            },
+            {
+                "strike": 23900.0,
+                "ce": "NSE_FO|56358",
+                "ce_trading_symbol": "NIFTY 23900 CE 23 JUN 26",
+                "pe": "NSE_FO|56359",
+                "pe_trading_symbol": "NIFTY 23900 PE 23 JUN 26"
+            },
+            {
+                "strike": 23950.0,
+                "ce": "NSE_FO|56370",
+                "ce_trading_symbol": "NIFTY 23950 CE 23 JUN 26",
+                "pe": "NSE_FO|56371",
+                "pe_trading_symbol": "NIFTY 23950 PE 23 JUN 26"
+            },
+            {
+                "strike": 24000.0,
+                "ce": "NSE_FO|56372",
+                "ce_trading_symbol": "NIFTY 24000 CE 23 JUN 26",
+                "pe": "NSE_FO|56373",
+                "pe_trading_symbol": "NIFTY 24000 PE 23 JUN 26"
+            },
+            {
+                "strike": 24050.0,
+                "ce": "NSE_FO|56374",
+                "ce_trading_symbol": "NIFTY 24050 CE 23 JUN 26",
+                "pe": "NSE_FO|56375",
+                "pe_trading_symbol": "NIFTY 24050 PE 23 JUN 26"
+            },
+            {
+                "strike": 24100.0,
+                "ce": "NSE_FO|56376",
+                "ce_trading_symbol": "NIFTY 24100 CE 23 JUN 26",
+                "pe": "NSE_FO|56377",
+                "pe_trading_symbol": "NIFTY 24100 PE 23 JUN 26"
+            },
+            {
+                "strike": 24150.0,
+                "ce": "NSE_FO|56380",
+                "ce_trading_symbol": "NIFTY 24150 CE 23 JUN 26",
+                "pe": "NSE_FO|56381",
+                "pe_trading_symbol": "NIFTY 24150 PE 23 JUN 26"
+            },
+            {
+                "strike": 24200.0,
+                "ce": "NSE_FO|56382",
+                "ce_trading_symbol": "NIFTY 24200 CE 23 JUN 26",
+                "pe": "NSE_FO|56383",
+                "pe_trading_symbol": "NIFTY 24200 PE 23 JUN 26"
+            },
+            {
+                "strike": 24250.0,
+                "ce": "NSE_FO|56384",
+                "ce_trading_symbol": "NIFTY 24250 CE 23 JUN 26",
+                "pe": "NSE_FO|56385",
+                "pe_trading_symbol": "NIFTY 24250 PE 23 JUN 26"
+            },
+            {
+                "strike": 24300.0,
+                "ce": "NSE_FO|56386",
+                "ce_trading_symbol": "NIFTY 24300 CE 23 JUN 26",
+                "pe": "NSE_FO|56387",
+                "pe_trading_symbol": "NIFTY 24300 PE 23 JUN 26"
+            },
+            {
+                "strike": 24350.0,
+                "ce": "NSE_FO|56388",
+                "ce_trading_symbol": "NIFTY 24350 CE 23 JUN 26",
+                "pe": "NSE_FO|56389",
+                "pe_trading_symbol": "NIFTY 24350 PE 23 JUN 26"
+            },
+            {
+                "strike": 24400.0,
+                "ce": "NSE_FO|56390",
+                "ce_trading_symbol": "NIFTY 24400 CE 23 JUN 26",
+                "pe": "NSE_FO|56391",
+                "pe_trading_symbol": "NIFTY 24400 PE 23 JUN 26"
+            },
+            {
+                "strike": 24450.0,
+                "ce": "NSE_FO|56392",
+                "ce_trading_symbol": "NIFTY 24450 CE 23 JUN 26",
+                "pe": "NSE_FO|56393",
+                "pe_trading_symbol": "NIFTY 24450 PE 23 JUN 26"
+            },
+            {
+                "strike": 24500.0,
+                "ce": "NSE_FO|56396",
+                "ce_trading_symbol": "NIFTY 24500 CE 23 JUN 26",
+                "pe": "NSE_FO|56397",
+                "pe_trading_symbol": "NIFTY 24500 PE 23 JUN 26"
+            },
+            {
+                "strike": 24550.0,
+                "ce": "NSE_FO|56402",
+                "ce_trading_symbol": "NIFTY 24550 CE 23 JUN 26",
+                "pe": "NSE_FO|56403",
+                "pe_trading_symbol": "NIFTY 24550 PE 23 JUN 26"
+            },
+            {
+                "strike": 24600.0,
+                "ce": "NSE_FO|56404",
+                "ce_trading_symbol": "NIFTY 24600 CE 23 JUN 26",
+                "pe": "NSE_FO|56405",
+                "pe_trading_symbol": "NIFTY 24600 PE 23 JUN 26"
+            },
+            {
+                "strike": 24650.0,
+                "ce": "NSE_FO|56406",
+                "ce_trading_symbol": "NIFTY 24650 CE 23 JUN 26",
+                "pe": "NSE_FO|56407",
+                "pe_trading_symbol": "NIFTY 24650 PE 23 JUN 26"
+            },
+            {
+                "strike": 24700.0,
+                "ce": "NSE_FO|56418",
+                "ce_trading_symbol": "NIFTY 24700 CE 23 JUN 26",
+                "pe": "NSE_FO|56419",
+                "pe_trading_symbol": "NIFTY 24700 PE 23 JUN 26"
+            },
+            {
+                "strike": 24750.0,
+                "ce": "NSE_FO|56420",
+                "ce_trading_symbol": "NIFTY 24750 CE 23 JUN 26",
+                "pe": "NSE_FO|56421",
+                "pe_trading_symbol": "NIFTY 24750 PE 23 JUN 26"
+            }
+        ],
+        "all_keys": [
+            "NSE_FO|62329",
+            "NSE_FO|56318",
+            "NSE_FO|56320",
+            "NSE_FO|56326",
+            "NSE_FO|56332",
+            "NSE_FO|56334",
+            "NSE_FO|56336",
+            "NSE_FO|56348",
+            "NSE_FO|56354",
+            "NSE_FO|56356",
+            "NSE_FO|56358",
+            "NSE_FO|56370",
+            "NSE_FO|56372",
+            "NSE_FO|56374",
+            "NSE_FO|56376",
+            "NSE_FO|56380",
+            "NSE_FO|56382",
+            "NSE_FO|56384",
+            "NSE_FO|56386",
+            "NSE_FO|56388",
+            "NSE_FO|56390",
+            "NSE_FO|56392",
+            "NSE_FO|56396",
+            "NSE_FO|56402",
+            "NSE_FO|56404",
+            "NSE_FO|56406",
+            "NSE_FO|56418",
+            "NSE_FO|56420",
+            "NSE_FO|56319",
+            "NSE_FO|56321",
+            "NSE_FO|56327",
+            "NSE_FO|56333",
+            "NSE_FO|56335",
+            "NSE_FO|56337",
+            "NSE_FO|56349",
+            "NSE_FO|56355",
+            "NSE_FO|56357",
+            "NSE_FO|56359",
+            "NSE_FO|56371",
+            "NSE_FO|56373",
+            "NSE_FO|56375",
+            "NSE_FO|56377",
+            "NSE_FO|56381",
+            "NSE_FO|56383",
+            "NSE_FO|56385",
+            "NSE_FO|56387",
+            "NSE_FO|56389",
+            "NSE_FO|56391",
+            "NSE_FO|56393",
+            "NSE_FO|56397",
+            "NSE_FO|56403",
+            "NSE_FO|56405",
+            "NSE_FO|56407",
+            "NSE_FO|56419",
+            "NSE_FO|56421"
+        ]
+    },
+    "BANKNIFTY": {
+        "future": "NSE_FO|62326",
+        "expiry": "2026-06-30",
+        "options": [
+            {
+                "strike": 56600.0,
+                "ce": "NSE_FO|75630",
+                "ce_trading_symbol": "BANKNIFTY 56600 CE 30 JUN 26",
+                "pe": "NSE_FO|75631",
+                "pe_trading_symbol": "BANKNIFTY 56600 PE 30 JUN 26"
+            },
+            {
+                "strike": 56700.0,
+                "ce": "NSE_FO|75632",
+                "ce_trading_symbol": "BANKNIFTY 56700 CE 30 JUN 26",
+                "pe": "NSE_FO|75633",
+                "pe_trading_symbol": "BANKNIFTY 56700 PE 30 JUN 26"
+            },
+            {
+                "strike": 56800.0,
+                "ce": "NSE_FO|75634",
+                "ce_trading_symbol": "BANKNIFTY 56800 CE 30 JUN 26",
+                "pe": "NSE_FO|75635",
+                "pe_trading_symbol": "BANKNIFTY 56800 PE 30 JUN 26"
+            },
+            {
+                "strike": 56900.0,
+                "ce": "NSE_FO|75636",
+                "ce_trading_symbol": "BANKNIFTY 56900 CE 30 JUN 26",
+                "pe": "NSE_FO|75637",
+                "pe_trading_symbol": "BANKNIFTY 56900 PE 30 JUN 26"
+            },
+            {
+                "strike": 57000.0,
+                "ce": "NSE_FO|57746",
+                "ce_trading_symbol": "BANKNIFTY 57000 CE 30 JUN 26",
+                "pe": "NSE_FO|57747",
+                "pe_trading_symbol": "BANKNIFTY 57000 PE 30 JUN 26"
+            },
+            {
+                "strike": 57100.0,
+                "ce": "NSE_FO|75638",
+                "ce_trading_symbol": "BANKNIFTY 57100 CE 30 JUN 26",
+                "pe": "NSE_FO|75649",
+                "pe_trading_symbol": "BANKNIFTY 57100 PE 30 JUN 26"
+            },
+            {
+                "strike": 57200.0,
+                "ce": "NSE_FO|75650",
+                "ce_trading_symbol": "BANKNIFTY 57200 CE 30 JUN 26",
+                "pe": "NSE_FO|75651",
+                "pe_trading_symbol": "BANKNIFTY 57200 PE 30 JUN 26"
+            },
+            {
+                "strike": 57300.0,
+                "ce": "NSE_FO|75652",
+                "ce_trading_symbol": "BANKNIFTY 57300 CE 30 JUN 26",
+                "pe": "NSE_FO|75656",
+                "pe_trading_symbol": "BANKNIFTY 57300 PE 30 JUN 26"
+            },
+            {
+                "strike": 57400.0,
+                "ce": "NSE_FO|75657",
+                "ce_trading_symbol": "BANKNIFTY 57400 CE 30 JUN 26",
+                "pe": "NSE_FO|75658",
+                "pe_trading_symbol": "BANKNIFTY 57400 PE 30 JUN 26"
+            },
+            {
+                "strike": 57500.0,
+                "ce": "NSE_FO|75661",
+                "ce_trading_symbol": "BANKNIFTY 57500 CE 30 JUN 26",
+                "pe": "NSE_FO|75662",
+                "pe_trading_symbol": "BANKNIFTY 57500 PE 30 JUN 26"
+            },
+            {
+                "strike": 57600.0,
+                "ce": "NSE_FO|75663",
+                "ce_trading_symbol": "BANKNIFTY 57600 CE 30 JUN 26",
+                "pe": "NSE_FO|75664",
+                "pe_trading_symbol": "BANKNIFTY 57600 PE 30 JUN 26"
+            },
+            {
+                "strike": 57700.0,
+                "ce": "NSE_FO|75665",
+                "ce_trading_symbol": "BANKNIFTY 57700 CE 30 JUN 26",
+                "pe": "NSE_FO|75732",
+                "pe_trading_symbol": "BANKNIFTY 57700 PE 30 JUN 26"
+            },
+            {
+                "strike": 57800.0,
+                "ce": "NSE_FO|75733",
+                "ce_trading_symbol": "BANKNIFTY 57800 CE 30 JUN 26",
+                "pe": "NSE_FO|75748",
+                "pe_trading_symbol": "BANKNIFTY 57800 PE 30 JUN 26"
+            },
+            {
+                "strike": 57900.0,
+                "ce": "NSE_FO|75749",
+                "ce_trading_symbol": "BANKNIFTY 57900 CE 30 JUN 26",
+                "pe": "NSE_FO|75750",
+                "pe_trading_symbol": "BANKNIFTY 57900 PE 30 JUN 26"
+            },
+            {
+                "strike": 58000.0,
+                "ce": "NSE_FO|75751",
+                "ce_trading_symbol": "BANKNIFTY 58000 CE 30 JUN 26",
+                "pe": "NSE_FO|75752",
+                "pe_trading_symbol": "BANKNIFTY 58000 PE 30 JUN 26"
+            },
+            {
+                "strike": 58100.0,
+                "ce": "NSE_FO|75753",
+                "ce_trading_symbol": "BANKNIFTY 58100 CE 30 JUN 26",
+                "pe": "NSE_FO|75754",
+                "pe_trading_symbol": "BANKNIFTY 58100 PE 30 JUN 26"
+            },
+            {
+                "strike": 58200.0,
+                "ce": "NSE_FO|75755",
+                "ce_trading_symbol": "BANKNIFTY 58200 CE 30 JUN 26",
+                "pe": "NSE_FO|75756",
+                "pe_trading_symbol": "BANKNIFTY 58200 PE 30 JUN 26"
+            },
+            {
+                "strike": 58300.0,
+                "ce": "NSE_FO|75757",
+                "ce_trading_symbol": "BANKNIFTY 58300 CE 30 JUN 26",
+                "pe": "NSE_FO|75758",
+                "pe_trading_symbol": "BANKNIFTY 58300 PE 30 JUN 26"
+            },
+            {
+                "strike": 58400.0,
+                "ce": "NSE_FO|75759",
+                "ce_trading_symbol": "BANKNIFTY 58400 CE 30 JUN 26",
+                "pe": "NSE_FO|75760",
+                "pe_trading_symbol": "BANKNIFTY 58400 PE 30 JUN 26"
+            },
+            {
+                "strike": 58500.0,
+                "ce": "NSE_FO|57750",
+                "ce_trading_symbol": "BANKNIFTY 58500 CE 30 JUN 26",
+                "pe": "NSE_FO|57751",
+                "pe_trading_symbol": "BANKNIFTY 58500 PE 30 JUN 26"
+            },
+            {
+                "strike": 58600.0,
+                "ce": "NSE_FO|75786",
+                "ce_trading_symbol": "BANKNIFTY 58600 CE 30 JUN 26",
+                "pe": "NSE_FO|75793",
+                "pe_trading_symbol": "BANKNIFTY 58600 PE 30 JUN 26"
+            },
+            {
+                "strike": 58700.0,
+                "ce": "NSE_FO|75794",
+                "ce_trading_symbol": "BANKNIFTY 58700 CE 30 JUN 26",
+                "pe": "NSE_FO|75795",
+                "pe_trading_symbol": "BANKNIFTY 58700 PE 30 JUN 26"
+            },
+            {
+                "strike": 58800.0,
+                "ce": "NSE_FO|75796",
+                "ce_trading_symbol": "BANKNIFTY 58800 CE 30 JUN 26",
+                "pe": "NSE_FO|75797",
+                "pe_trading_symbol": "BANKNIFTY 58800 PE 30 JUN 26"
+            },
+            {
+                "strike": 58900.0,
+                "ce": "NSE_FO|75798",
+                "ce_trading_symbol": "BANKNIFTY 58900 CE 30 JUN 26",
+                "pe": "NSE_FO|75799",
+                "pe_trading_symbol": "BANKNIFTY 58900 PE 30 JUN 26"
+            },
+            {
+                "strike": 59000.0,
+                "ce": "NSE_FO|75800",
+                "ce_trading_symbol": "BANKNIFTY 59000 CE 30 JUN 26",
+                "pe": "NSE_FO|75801",
+                "pe_trading_symbol": "BANKNIFTY 59000 PE 30 JUN 26"
+            },
+            {
+                "strike": 59100.0,
+                "ce": "NSE_FO|75802",
+                "ce_trading_symbol": "BANKNIFTY 59100 CE 30 JUN 26",
+                "pe": "NSE_FO|75803",
+                "pe_trading_symbol": "BANKNIFTY 59100 PE 30 JUN 26"
+            },
+            {
+                "strike": 59200.0,
+                "ce": "NSE_FO|75804",
+                "ce_trading_symbol": "BANKNIFTY 59200 CE 30 JUN 26",
+                "pe": "NSE_FO|75805",
+                "pe_trading_symbol": "BANKNIFTY 59200 PE 30 JUN 26"
+            }
+        ],
+        "all_keys": [
+            "NSE_FO|62326",
+            "NSE_FO|75630",
+            "NSE_FO|75632",
+            "NSE_FO|75634",
+            "NSE_FO|75636",
+            "NSE_FO|57746",
+            "NSE_FO|75638",
+            "NSE_FO|75650",
+            "NSE_FO|75652",
+            "NSE_FO|75657",
+            "NSE_FO|75661",
+            "NSE_FO|75663",
+            "NSE_FO|75665",
+            "NSE_FO|75733",
+            "NSE_FO|75749",
+            "NSE_FO|75751",
+            "NSE_FO|75753",
+            "NSE_FO|75755",
+            "NSE_FO|75757",
+            "NSE_FO|75759",
+            "NSE_FO|57750",
+            "NSE_FO|75786",
+            "NSE_FO|75794",
+            "NSE_FO|75796",
+            "NSE_FO|75798",
+            "NSE_FO|75800",
+            "NSE_FO|75802",
+            "NSE_FO|75804",
+            "NSE_FO|75631",
+            "NSE_FO|75633",
+            "NSE_FO|75635",
+            "NSE_FO|75637",
+            "NSE_FO|57747",
+            "NSE_FO|75649",
+            "NSE_FO|75651",
+            "NSE_FO|75656",
+            "NSE_FO|75658",
+            "NSE_FO|75662",
+            "NSE_FO|75664",
+            "NSE_FO|75732",
+            "NSE_FO|75748",
+            "NSE_FO|75750",
+            "NSE_FO|75752",
+            "NSE_FO|75754",
+            "NSE_FO|75756",
+            "NSE_FO|75758",
+            "NSE_FO|75760",
+            "NSE_FO|57751",
+            "NSE_FO|75793",
+            "NSE_FO|75795",
+            "NSE_FO|75797",
+            "NSE_FO|75799",
+            "NSE_FO|75801",
+            "NSE_FO|75803",
+            "NSE_FO|75805"
+        ]
+    }
+}
