@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}/.venv/Scripts;${env:PATH}",
+        "VIRTUAL_ENV": "${workspaceFolder}/.venv"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}

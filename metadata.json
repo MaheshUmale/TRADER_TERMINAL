@@ -1,0 +1,6 @@
+{
+  "name": "Traders Terminal",
+  "description": "High-density real-time options trading terminal and market structure analyzer with simulated Upstox Feed, 10-second SQL candlestick rollups, replay engine, and instant contract executions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
